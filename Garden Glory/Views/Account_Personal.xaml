@@ -1,0 +1,46 @@
+﻿<Page x:Class="Garden_Glory.Views.Account_Personal"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Garden_Glory.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      TextElement.Foreground="{DynamicResource BackgroundBrush}"
+      TextElement.FontWeight="Regular"
+      TextElement.FontSize="13"
+      TextOptions.TextFormattingMode="Ideal" 
+      TextOptions.TextRenderingMode="Auto"        
+      Background="{DynamicResource PrimaryHueLightForegroundBrush}"
+      FontFamily="{DynamicResource MaterialDesignFont}"
+      Title="Account_Personal">
+
+    <Grid>
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center" Width="500">
+            <TextBlock
+            Style="{StaticResource MaterialDesignHeadline3TextBlock}"
+            TextAlignment="Center"
+            Text="Account" Foreground="{DynamicResource PrimaryHueDarkBrush}" Grid.RowSpan="2" />
+            <TextBox
+                    x:Name="username"
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    materialDesign:HintAssist.Hint="Username"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    Foreground="{StaticResource PrimaryHueDarkBrush}"
+                    VerticalAlignment="Center"
+                    MaxLength="100" />
+            <TextBox
+                    x:Name="password"
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    materialDesign:HintAssist.Hint="Password"
+                    Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                    Foreground="{StaticResource PrimaryHueDarkBrush}"
+                    VerticalAlignment="Center"
+                    MaxLength="100" />
+            <Button Content="Save" Width="120" Margin="0,30,0,0" Click="save_click"></Button>
+        </StackPanel>
+    </Grid>
+</Page>

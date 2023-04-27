@@ -1,0 +1,166 @@
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\App.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Garden Glory_MarkupCompile.cache
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Garden Glory_MarkupCompile.lref
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\bin\Debug\Garden Glory.exe.config
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\bin\Debug\Garden Glory.exe
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\bin\Debug\Garden Glory.pdb
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\bin\Debug\ControlzEx.dll
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\bin\Debug\MaterialDesignColors.dll
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\bin\Debug\ControlzEx.pdb
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\bin\Debug\ControlzEx.xml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\bin\Debug\MaterialDesignColors.pdb
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\MainWindow.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\App.baml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\MainWindow.baml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Garden Glory.g.resources
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Garden_Glory.Properties.Resources.resources
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Garden Glory.csproj.GenerateResource.cache
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Garden Glory.csproj.CoreCompileInputs.cache
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Garden Glory.csproj.CopyComplete
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Garden Glory.exe
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Garden Glory.pdb
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Garden Glory.csprojAssemblyReference.cache
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Customer.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Customer.baml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Property.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Property.baml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Service.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Service.baml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Employee.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Employee.baml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Account.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Account.baml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Task.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Task.baml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Equipment.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Equipment.baml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\EquipmentRepair.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\EquipmentRepair.baml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\EquipmentUsage.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\EquipmentUsage.baml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Payment.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Payment.baml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Login.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Login.baml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Account_Personal.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Account_Personal.baml
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Home.g.cs
+C:\Users\uzair khan\source\repos\Garden Glory\Garden Glory\obj\Debug\Views\Home.baml
+D:\Project\Garden Glory\Garden Glory\bin\Debug\Garden Glory.exe.config
+D:\Project\Garden Glory\Garden Glory\bin\Debug\Garden Glory.exe
+D:\Project\Garden Glory\Garden Glory\bin\Debug\Garden Glory.pdb
+D:\Project\Garden Glory\Garden Glory\bin\Debug\ControlzEx.dll
+D:\Project\Garden Glory\Garden Glory\bin\Debug\MaterialDesignColors.dll
+D:\Project\Garden Glory\Garden Glory\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Project\Garden Glory\Garden Glory\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Project\Garden Glory\Garden Glory\bin\Debug\ControlzEx.pdb
+D:\Project\Garden Glory\Garden Glory\bin\Debug\ControlzEx.xml
+D:\Project\Garden Glory\Garden Glory\bin\Debug\MaterialDesignColors.pdb
+D:\Project\Garden Glory\Garden Glory\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Project\Garden Glory\Garden Glory\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Project\Garden Glory\Garden Glory\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Project\Garden Glory\Garden Glory\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Garden Glory.csprojAssemblyReference.cache
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Login.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\MainWindow.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Account.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Account_Personal.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Customer.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Employee.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Equipment.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\EquipmentRepair.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\EquipmentUsage.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Home.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Payment.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Property.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Service.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Task.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Trained.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\App.g.cs
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Garden Glory_MarkupCompile.cache
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Garden Glory_MarkupCompile.lref
+D:\Project\Garden Glory\Garden Glory\obj\Debug\App.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Login.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\MainWindow.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Account.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Account_Personal.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Customer.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Employee.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Equipment.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\EquipmentRepair.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\EquipmentUsage.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Home.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Payment.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Property.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Service.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Task.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Views\Trained.baml
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Garden Glory.g.resources
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Garden_Glory.Properties.Resources.resources
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Garden Glory.csproj.GenerateResource.cache
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Garden Glory.csproj.CoreCompileInputs.cache
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Garden Glory.csproj.CopyComplete
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Garden Glory.exe
+D:\Project\Garden Glory\Garden Glory\obj\Debug\Garden Glory.pdb
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\bin\Debug\Garden Glory.exe.config
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\bin\Debug\Garden Glory.exe
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\bin\Debug\Garden Glory.pdb
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\bin\Debug\ControlzEx.dll
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\bin\Debug\MaterialDesignColors.dll
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\bin\Debug\ControlzEx.pdb
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\bin\Debug\ControlzEx.xml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\bin\Debug\MaterialDesignColors.pdb
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Garden Glory.csprojAssemblyReference.cache
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Login.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\MainWindow.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Account.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Account_Personal.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Customer.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Employee.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Equipment.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\EquipmentRepair.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\EquipmentUsage.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Home.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Payment.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Property.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Service.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Task.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Trained.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\App.g.cs
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Garden Glory_MarkupCompile.cache
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Garden Glory_MarkupCompile.lref
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\App.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Login.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\MainWindow.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Account.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Account_Personal.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Customer.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Employee.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Equipment.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\EquipmentRepair.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\EquipmentUsage.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Home.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Payment.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Property.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Service.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Task.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Views\Trained.baml
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Garden Glory.g.resources
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Garden_Glory.Properties.Resources.resources
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Garden Glory.csproj.GenerateResource.cache
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Garden Glory.csproj.CoreCompileInputs.cache
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Garden Glory.csproj.CopyComplete
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Garden Glory.exe
+D:\Project_SoftwareDesign_Ganoy\Garden Glory\Garden Glory\obj\Debug\Garden Glory.pdb
